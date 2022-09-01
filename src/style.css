@@ -21,7 +21,7 @@ ul {
     padding-left: 10px;
 }
 
-.header {
+/* .header {
     color: #0f5;
     text-align: center;
     background-color: #222;
@@ -33,7 +33,7 @@ ul {
     margin: auto;
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
-}
+} */
 
 .main {
     background-color: darkgray;
