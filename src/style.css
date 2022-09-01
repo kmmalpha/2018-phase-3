@@ -1,0 +1,49 @@
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.main h2, h3, p {
+    padding-left: 10px;
+}
+
+.header {
+    color: #0f5;
+    text-align: center;
+    background-color: #222;
+    height: auto;
+    height: 200px;
+    font-size: 1rem;
+    padding-top: 5%;
+    width: 90%;
+    margin: auto;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.nav {
+    color: #0f5;
+    text-align: center;
+    background-color: #222;
+    height: auto;
+    width: 90%;
+}
+
+.main {
+    background-color: darkgray;
+    padding: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 90%;
+    margin: auto;
+}
+
+.footer {
+    text-align: center;
+    padding-bottom: 10px;
+    width: 90%;
+    margin: auto;
+    background-color: black;
+    color: white;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
