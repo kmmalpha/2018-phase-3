@@ -1,0 +1,11 @@
+.header {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(161, 232, 250);
+    height: auto;
+    height: 50px;
+    font-size: 1rem;
+    width: 100%;
+    padding-top: 5px;
+    margin: auto;
+}

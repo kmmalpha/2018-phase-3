@@ -1,12 +1,11 @@
 import React from "react";
-import './style.css';
-
+import './styles/Header.css';
 
 function Header() {
     return (
         <div className="header">
             <header>
-                <h1>Welcome to my website about Crowdfunding and the Alexandra Township</h1>
+                <h1>Project Assessment Task</h1>
             </header>
         </div>
     )

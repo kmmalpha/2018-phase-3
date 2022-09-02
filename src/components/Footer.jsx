@@ -1,5 +1,6 @@
 import React from "react";
-import './style.css';
+import './styles/Footer.css';
+
 
 function Footer() {
     return (
@@ -8,9 +9,9 @@ function Footer() {
                 <h2>Contact information: </h2>
                     <h3>Social media</h3>
                         <ul>
-                            <li>Facebook</li>
-                            <li>Twitter</li>
-                            <li>Instagram</li>
+                            <li><a href="https://www.facebook.com/keithmdu.ndlovu/" target="_blank" rel="noreferrer">Facebook</a></li>
+                            <li><a href="https://twitter.com/kmm_alpha" target="_blank" rel="noreferrer">Twitter</a></li>
+                            <li><a href="https://www.instagram.com/kmm_alpha/" target="_blank" rel="noreferrer">Instagram</a></li>
                         </ul>
                     <h3>Phone numbers:</h3>
                         <ul>

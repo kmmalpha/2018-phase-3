@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import './nav.css';
+import './styles/Nav.css';
 
 
 function Nav() {
@@ -7,7 +7,7 @@ function Nav() {
 
     return (
         <nav className="nav">
-            <a href="/" className="brand-name">My Webpage</a>
+            <a href="/" className="brand-name" >My Webpage</a>
             <button
                 className="options"
                 onClick={() => {
@@ -33,7 +33,7 @@ function Nav() {
                 <ul>
                     <li><a href="/home">Home page</a></li>
                     <li><a href="/alex-town">Alexandra Township</a></li>
-                    <li><a href="/pros-cons">Pros and Cons for Crowdfunding</a></li>
+                    <li><a href="/pros-cons">Pros and Cons</a></li>
                     <li><a href="/probs">Problems and Recommendations</a></li>
                     <li><a href="/sites">Sites used for Crowdfunding</a></li>
                 </ul>
