@@ -31,10 +31,19 @@
 
 .ads {
     float: right;
-    background-color: lightcyan;
+    background-color: rgb(176, 250, 250);
     width: 18%;
     margin: auto;
-    height: 75rem;
+    height: 81rem;
     padding-top: 10px;
     border-radius: 20px;
+    animation-name: adsdiv;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
 }
+
+@keyframes adsdiv {
+    50% {
+      background: #ffffff;
+    }
+  }
