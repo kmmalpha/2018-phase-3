@@ -43,6 +43,7 @@ function MainContent() {
                                 <p>In what ways can money be raised to ensure better security for the residents of Alexandra?</p>
                         </section><hr />
                     </article>
+                    <br />
                 </div>
                 <div className="ads">
                     <p>Ad 1</p>

@@ -6,7 +6,7 @@
 	align-items: center;
 	position: relative;
 	padding: 0.5rem 0rem;
-	background-color: #fff;
+	background-color: rgba(255, 255, 255, 0.986);
 	color: black;
 	box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
 /* 	border-top-left-radius: 25px;
@@ -37,6 +37,7 @@
 	text-decoration: none;
 	display: block;
 	width: 100%;
+	color: black;
 }
 
 .nav-menu li a {
@@ -44,6 +45,14 @@
 	text-decoration: none;
 	display: block;
 	width: 100%;
+	color: black;
+	margin-right: 4rem;
+	margin-top: auto;
+}
+
+.nav-menu li a:hover {
+	background-color: #121575;
+	color: rgb(161, 232, 250);
 }
 
 .options {

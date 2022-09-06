@@ -1,4 +1,5 @@
 import React from "react";
+import ScrollToTop from "./ScrollToTop";
 import './styles/Footer.css';
 
 
@@ -20,6 +21,7 @@ function Footer() {
                         </ul>
                 <b>Copyright &copy; - 2018 Keith Mdu Mwelase</b>
             </footer>
+            <ScrollToTop />
         </div>
     )
 }
