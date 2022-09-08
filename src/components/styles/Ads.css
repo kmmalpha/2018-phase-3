@@ -40,10 +40,12 @@
     animation-name: adsdiv;
     animation-duration: 1s;
     animation-iteration-count: infinite;
+    text-decoration: none;
 }
+
 
 @keyframes adsdiv {
     50% {
-      background: #ffffff;
+      background: #fff;
     }
   }
