@@ -15,7 +15,7 @@ const Navbar = () => {
                     <NavLink to="/ProbsAndRecs" activeStyle>
                         Problems And Recommendations
                     </NavLink>
-                    <NavLink to="/CliamsAndArgs" activeStyle>
+                    <NavLink to="/ClaimsAndArgs" activeStyle>
                         Claims and Arguments
                     </NavLink>
                     <NavLink to="/Sites" activeStyle>

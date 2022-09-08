@@ -2,10 +2,11 @@
     background-color: rgb(255, 255, 255);
     padding: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    width: 90%;
+    width: 80%;
     margin: auto;
     padding-top: 10px;
     padding-bottom: 10px;
+    padding-left: 2rem;
 }
 
 .main h2 {
@@ -21,7 +22,7 @@
 
 .main p {
     padding-left: 10px;
-    font-size: 17px;
+    font-size: 15px;
 }
 
 .articles-div {
